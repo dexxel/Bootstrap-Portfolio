@@ -17,10 +17,10 @@ body {
   background-color: #e7e7e7;
 }
 
-/* portfolio items */
+/* About,Portfolio,Contact items */
 .card-columns { column-count: 2; }
 @media (max-width: 768px) {.card-columns {column-count: 1;}}
-/* Portfolio */
+/* About,Portfolio,Contact */
 .thumbnail {
   position: relative;
   float: left;
